@@ -2,11 +2,13 @@
   "search": [{
     "id": 1,
     "airline":{"code": 1,"name":"IbaColombia","thumbnail": ""},
-    "result":{"flightcode": "123", "origin": "MDE" ,"destination":"BOG","price":200000,"currency":"COP", "date":"20:30 16-08-2017"}
+    "result":[{"flightcode": "123", "origin": "MDE" ,"destination":"BOG","price":200000,"currency":"COP", "date":"20:30 16-08-2017"},
+    {"flightcode": "6437", "origin": "MDE" ,"destination":"BOG","price":160000,"currency":"COP", "date":"6:30 12-08-2017"}]
   },{
     "id": 2,
     "airline":{"code": 2,"name":"Chan","thumbnail": ""},
-    "result":{"flightcode": "123", "origin": "MDE" ,"destination":"BOG","price":200000,"currency":"COP", "date":"20:30 16-08-2017"}
+    "result":[{"flightcode": "123", "origin": "MDE" ,"destination":"BOG","price":125000,"currency":"COP", "date":"20:30 16-08-2017"},
+    {"flightcode": "4536", "origin": "MDE" ,"destination":"BOG","price":97000,"currency":"COP", "date":"12:30 12-05-2017"}]
   }],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
