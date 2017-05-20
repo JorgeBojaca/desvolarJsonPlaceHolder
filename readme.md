@@ -2,5 +2,4 @@
 npm install -g json-server
 json-server --watch db.json
 ```
-Corre en:
-[a link](localhost:3000/search/:id)
+Corre en: localhost:3000/search/:id
