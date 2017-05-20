@@ -1,0 +1,12 @@
+{
+  "search": [
+    { "id": 1, "flightcode": "123", "origin": "MDE" ,"destination":"BOG","price":200000,"currency":"COP", "date":"20:30 16-08-2017"},
+    { "id": 2, "flightcode": "456", "origin": "MDE" ,"destination":"BOG","price":250000,"currency":"COP", "date":"20:30 16-08-2017"},
+    { "id": 3, "flightcode": "789", "origin": "MDE" ,"destination":"BOG","price":10000,"currency":"COP", "date":"20:30 16-08-2017"},
+    { "id": 4, "flightcode": "012", "origin": "MDE" ,"destination":"BOG","price":20000,"currency":"COP", "date":"20:30 16-08-2017"}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
